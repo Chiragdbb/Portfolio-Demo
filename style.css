@@ -322,7 +322,7 @@
 .card-container {
     width: 90%;
     height: 550px;
-    background-image: url('/Porfolio/assets/asset\ 29.png');
+    background-image: url('assets/asset 29.png');
     background-position: center;
     background-size: contain;
     position: relative;
@@ -446,7 +446,7 @@
 
 .card-2 {
     margin-left: 7.5rem;
-    background-image: url('/Porfolio/assets/asset\ 30.png');
+    background-image: url('assets/asset 30.png');
 }
 
 .card-2 .tech-stack {
@@ -466,7 +466,7 @@
 .card-3 {
     background-position: top;
     background-size: cover;
-    background-image: url('/Porfolio/assets/asset\ 31.png');
+    background-image: url('assets/asset 31.png');
 }
 
 .card-3 .card-content{
@@ -476,7 +476,7 @@
 .card-4 {
     background-position: top;
     background-size: cover;
-    background-image: url('/Porfolio/assets/asset\ 32.png');
+    background-image: url('assets/asset 32.png');
     margin-left: 7.5rem;
 }
 
